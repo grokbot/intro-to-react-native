@@ -1,0 +1,44 @@
+{
+	"questions": {
+		"1": {
+			"Question": "Should I stay or should I go?",
+			"Choices": {
+				"Stay": 1,
+				"Go": 2,
+				"Repeat Chorus: Should I stay or should I go, now?": 3,
+				"No.": 4
+			}
+		},
+		"2": {
+			"Question": "Who is your best friend?",
+			"Choices": {
+				"Mike": 3,
+				"Chief Hopper": 1,
+				"Nancy": 2
+			}
+		},
+		"3": {
+			"Question": "Who is your worst enemy?",
+			"Choices": {
+				"The Monster": 2,
+				"My Ex": 1,
+				"Dr. Brenner": 3
+			}
+		},
+		"4": {
+			"Question": "If you could take one thing with you into an alternate dimension what would it be?",
+			"Choices": {
+				"My Radio": 3,
+				"Camera": 2,
+				"Christmas Lights": 1,
+				"Eggo Waffles": 4
+			}
+		}
+	},
+	"results": {
+		"Joyce": 4,
+		"Jonathan" : 9,
+		"Will": 11,
+		"Eleven": 13
+	}
+}
