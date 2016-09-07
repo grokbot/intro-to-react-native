@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Text, View, ScrollView, Image, TouchableHighlight } from 'react-native';
+import { Text, View, ScrollView, TouchableHighlight } from 'react-native';
 import { Theme } from '../../theme';
 import Results from '../Results';
 
